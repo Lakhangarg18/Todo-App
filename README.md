@@ -7,10 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Todo App
+Todo App:
 This is a simple Todo application built using [Rect Library Of Javascript].
 
-Features
+Features:
 Create, Read,and Delete tasks
 Responsive design for mobile and desktop
 Technologies Used
@@ -38,6 +38,6 @@ Open your browser and visit http://localhost:3000
 Contributing
 Contributions are welcome! Please fork this repository and create a pull request with your changes.
 
-Contact
+Contact:
 For any inquiries, please contact lakhangarg380@gmail.com.
 
